@@ -1,8 +1,8 @@
 
 import MarkdownEditor from "./MarkDown/MarkDown";
 import PomodoroTimer from "./PomodoroTimer/PomodoroTimer";
-import DrumMachine from "./DrumMAchine/DrumMachine";
-import Calculatrice from "./Calculatrice/Calculater";
+
+
 
 
 
@@ -11,7 +11,7 @@ import Calculatrice from "./Calculatrice/Calculater";
     return (
 
         <>
-       <Calculatrice/>
+       <PomodoroTimer/>
         </>
         
     );
