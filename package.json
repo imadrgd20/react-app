@@ -55,8 +55,8 @@
       "last 1 safari version"
     ]
   },
-  
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "sass": "^1.71.0",
     "sass-loader": "^14.1.1",
     "webpack": "^5.90.3"
